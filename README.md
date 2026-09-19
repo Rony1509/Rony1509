@@ -3,7 +3,7 @@
 Software Engineering student building web apps, data analysis notebooks, and
 networked systems in C++.
 
-- 🎓 Software Engineering student
+- 🎓 B.Sc. in Software Engineering, [Institute of Information Technology](https://iit.du.ac.bd/) (IIT), University of Dhaka
 - 🏆 Competitive programmer on [Codeforces](https://codeforces.com/profile/mdronyrahman1509)
 - 🔭 Currently building **[Online Exam](https://github.com/Rony1509/online-exam)** — an Angular + Firebase exam platform (HSC/SSC/Admission MCQ & CQ exams, admin grading, live at [rony1509.github.io/online-exam](https://rony1509.github.io/online-exam/))
 - 🌱 Exploring networking/systems programming — a TCP-based file transfer app in C++
