@@ -28,9 +28,9 @@ systems/networking projects in C, C++, and Java.
 | [TCP-based-file-transfer](https://github.com/Rony1509/TCP-based-file-transfer) | C++ | File transfer over raw TCP sockets |
 | [Movie-Recommendation-System](https://github.com/Rony1509/Movie-Recommendation-System) | Python, Jupyter | Recommendation engine built with data analysis notebooks |
 | [Inventory-management-system](https://github.com/Rony1509/Inventory-management-system) | Java | Inventory tracking system |
-| [Realtime-chat-Application](https://github.com/Rony1509/Realtime-chat-Application) | JavaScript | Real-time messaging app |
-| [DoctorCare](https://github.com/Rony1509/DoctorCare) | JavaScript | Healthcare/appointment web app |
-| [mini-chess](https://github.com/Rony1509/mini-chess) | C++ | Chess implementation in C++. [Live demo](https://rony1509.github.io/mini-chess/) |
+| [Realtime-chat-Application](https://github.com/Rony1509/Realtime-chat-Application) | HTML, JavaScript | Real-time messaging app |
+| [DoctorCare](https://github.com/Rony1509/DoctorCare) | HTML, JavaScript | Healthcare/appointment web app |
+| [mini-chess](https://github.com/Rony1509/mini-chess) | JavaScript | Chess implementation in JavaScript. [Live demo](https://rony1509.github.io/mini-chess/) |
 
 More on [github.com/Rony1509?tab=repositories](https://github.com/Rony1509?tab=repositories).
 
