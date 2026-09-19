@@ -30,7 +30,7 @@ systems/networking projects in C, C++, and Java.
 | [Inventory-management-system](https://github.com/Rony1509/Inventory-management-system) | Java | Inventory tracking system |
 | [Realtime-chat-Application](https://github.com/Rony1509/Realtime-chat-Application) | JavaScript | Real-time messaging app |
 | [DoctorCare](https://github.com/Rony1509/DoctorCare) | JavaScript | Healthcare/appointment web app |
-| [mini-chess](https://github.com/Rony1509/mini-chess) | C++ | Chess implementation in C++ |
+| [mini-chess](https://github.com/Rony1509/mini-chess) | C++ | Chess implementation in C++. [Live demo](https://rony1509.github.io/mini-chess/) |
 
 More on [github.com/Rony1509?tab=repositories](https://github.com/Rony1509?tab=repositories).
 
